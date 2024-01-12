@@ -47,9 +47,6 @@ You can **NOT** deploy to Vercel, Netlify, Cloudflare Pages or any other **Stati
 
 - ``cd interstellar && npm i && npm run start``
 
-## If you need any help with deploying, join our Discord!
-- https://discord.gg/interstellar
-
 # Credits
 Huge thanks to following people for contributing to Interstellar V5.
 - https://github.com/imbubbo
